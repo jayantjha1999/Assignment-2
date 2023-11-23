@@ -1,0 +1,79 @@
+5A)Answer-
+<!DOCTYPE html>
+<html>
+ 
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up Page</title>
+   
+</head>
+<body>
+
+<div class="box">
+    <h1>Sign Up</h1>
+    <from action="./login.jsp">
+   
+       
+        <label for="first Name">Firstname:</label>
+        <input type="text" id="Firstname" name="Firstname" required>
+        
+        <label for="last name">Last Name:</label>
+        <input type="text" id="last name" name="last name" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required>
+
+        <label for="confirm password">Confrim password:</label>
+        <input type="confirm password" id="confirm password" name="confrim password" required>
+
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age" required>
+
+        <label for="gender">Gender:</label>
+        <input type="gender" id="gender" name="gender" required>
+
+        <input type="checkbox">
+
+
+        <button type="submit">Register</button>
+    </form>
+</div>
+
+</body>
+</html>
+
+5B)Answer-
+
+<!DOCTYPE html>
+<html>
+ 
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+   
+</head>
+<body>
+
+<div class="login-container">
+    <h2>Login</h2>
+    <from action="./login.jsp">
+   
+        <label for="Email">Email:</label>
+        <input type="text" id="email" name="email" required>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required>
+
+        <button type="submit">Login</button>
+    </form>
+</div>
+
+</body>
+</html>

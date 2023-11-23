@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" constant="width=device-width,initial-scale=1.0">
+        <title>IMAGE GALLERY</title>
+
+    </head>
+    <body>
+        <img src="E:\Image\hans-boodt-1006031_640.webp\400*400" alt="Dummy image">
+        <img src="E:\Image\hans-boodt-1006031_640.webp\600*500" alt="Dummy image">
+        <img src="E:\Image\hans-boodt-1006031_640.webp\300*200" alt="Dummy image">
+
+    </body>
+</html>
